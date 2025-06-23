@@ -21,7 +21,7 @@ A simple Python GUI tool to update all `360 images rotation` values in deeply ne
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RotationUpdater.git
+git clone https://github.com/NaveenKumarReddy21/360-images-Rotation-Updater.git
 cd RotationUpdater
 ```
 
