@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Tkinter is usually included with Python.
+# If not available, install it using your OS package manager.
+# This file is provided for consistency and future library additions.
+
+# No external pip packages required
