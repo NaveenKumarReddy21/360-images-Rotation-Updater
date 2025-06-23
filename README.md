@@ -135,7 +135,7 @@ python -m py_compile rotation_updater.py
 Have a suggestion or found a bug?
 
 * 📧 Email: [naveenreddy.puthi@gmail.com](mailto:naveenreddy.puthi@gmail.com)
-* 📝 Open an issue: [GitHub Issues](https://github.com/NaveenKumarReddy21/RotationUpdater/issues)
+* 📝 Open an issue: [GitHub Issues](https://github.com/NaveenKumarReddy21/360-images-Rotation-Updater/issues)
 * ⭐ Star the repo if it helped you!
 
 ---
