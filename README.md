@@ -2,6 +2,10 @@
 
 A simple Python GUI tool to update all `360 images rotation` values in deeply nested `images.json` files.
 
+RotationUpdater is a Python GUI tool that allows users to update all rotation fields in a nested images.json file. It recursively finds and replaces all list-type rotation values with user-defined values via a simple Tkinter-based interface.
+
+This tool is ideal for anyone working with 3D configurations, AR/VR metadata, or batch JSON updates. Lightweight, beginner-friendly, and easily extendable. No external libraries required.
+
 > Developed by **P. Naveen Kumar Reddy**
 
 ---
